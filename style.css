@@ -1,0 +1,14 @@
+.frame-container{
+    width: 150px;
+    height: 150px;
+    border: 2px solid #1928b0;
+    background-color: darkgreen;
+    padding: 30px;
+}
+.color-button{
+    width: 30px;
+    height: 30px;
+    border-radius: 60%;
+    margin: 0 10px;
+    cursor: pointer;
+}
